@@ -1,6 +1,13 @@
+using BookStore.BL.Interfaces;
+using BookStore.DL.Interfaces;
+using BookStore.DL.Repositori;
+using Microsoft.Extensions.DependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services
+    .AddSingleton<IAutorRepo, AutorRepo>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

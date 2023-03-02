@@ -12,7 +12,7 @@ namespace BookStore.DL.InMemoryDb
                     Id= 1,
                     Name="Gosho",
                     Bio = "Gosho bio"
-                    
+
                 },
                 new Autor()
                 {
@@ -22,7 +22,7 @@ namespace BookStore.DL.InMemoryDb
 
                 }
 
-            }
+            };
 
         
     }
