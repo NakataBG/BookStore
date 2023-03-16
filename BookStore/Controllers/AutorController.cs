@@ -11,7 +11,6 @@ namespace WebApplication1.Controllers
         private readonly IAutorServices _autorService;
 
 
-
         public AutorController(IAutorServices autorService)
         {
             _autorService = autorService;
@@ -20,6 +19,22 @@ namespace WebApplication1.Controllers
         public IEnumerable<Autor>GetAll()
         {
             return _autorService.GetAll();
+        }
+
+        [HttpGet("GetById")]
+        public Autor GetById(int id)
+        {
+            return _autorService.GetById(id);
+        }
+        [HttpPost("Add")]
+        public void Add([FromBody] Autor author)
+        {
+            _autorService.AddAutor(author);
+        }
+    [HttpDelete("Delete")]
+    public void Delete(int autorId) 
+        {
+            _autorService.DeleteAutor(autorId);
         }
     }
 }

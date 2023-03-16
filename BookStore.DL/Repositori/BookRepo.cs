@@ -1,22 +1,21 @@
 ﻿using BookStore.DL.InMemoryDb;
-using BookStore.DL.Interfaces;
 using BookStore.Models.Data;
 
 namespace BookStore.DL.Repositori
 {
-    public class AutorRepo : IAutorRepo
+    public class BookRepo
     {
-        public void AddAutor(Autor autor)
+        public void AddBook(Autor book)
         {
-            DataStore.Books.Add(autor);
+            DataStore.Books.Add(book);
         }
 
-        public void DeleteAutor(int id)
+        public void DeleteBook(int id)
         {
-            var autor = GetByld(id);
-            if (autor != null)
+            var Book = GetByld(id);
+            if (Book != null)
             {
-                DataStore.Books.Remove(autor);
+                DataStore.Books.Remove(Book);
             }
 
         }
@@ -28,7 +27,7 @@ namespace BookStore.DL.Repositori
 
         public Autor? GetByld(int id)
         {
-            return DataStore.Books//List<Autor>
+            return DataStore.Books//List<Book>
                 .FirstOrDefault(autor => autor.Id == id);
 
         }

@@ -13,6 +13,7 @@ namespace BookStore.BL.Interfaces
 
         Autor GetById(int id);
         void AddAutor(Autor autor);
-
+        void RemoveAutor(Autor autor);
+        void DeleteAutor(int autorId);
     }
 }

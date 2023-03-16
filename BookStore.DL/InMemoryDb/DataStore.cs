@@ -4,7 +4,7 @@ namespace BookStore.DL.InMemoryDb
 {
     public  static class DataStore
     {
-        public static List<Autor> Autors
+        public static List<Autor> Books
             = new List<Autor>()
             {
                 new Autor()
