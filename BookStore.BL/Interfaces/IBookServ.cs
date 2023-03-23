@@ -13,8 +13,9 @@ namespace BookStore.BL.Interfaces
         IEnumerable<Book> GetAll();
 
         Book GetById(int id);
-        void AddBook(Book book);
-        void RemoveBook(Book book);
-        void DeleteBook(int bookId);
+
+        void Add(AddBookRequest author);
+
+        void Delete(int id);
     }
 }
