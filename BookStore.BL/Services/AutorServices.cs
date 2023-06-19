@@ -2,47 +2,46 @@
 using BookStore.DL.Interfaces;
 using BookStore.DL.Repositori;
 using BookStore.Models.Data;
+using BookStore.Models.Request;
 
 namespace BookStore.BL.Services
 {
     public class AutorServices : IAutorServices
     {
         private readonly IAutorRepo _autorRepo;
-       
-        public AutorServices(IAutorRepo autorRepo)
+        private readonly IMapper _mapper;
+
+        public AutorService(
+            IAutorRepo authorRepository,
+            IMapper mapper)
         {
-            _autorRepo = autorRepo;
+            _authorRepository = authorRepository;
+            _mapper = mapper;
         }
 
-        public void AddAutor(Autor autor)
+        public IEnumerable<Author> GetAll()
         {
-            _autorRepo.AddAutor(autor);
+            return _authorRepository.GetAll();
         }
 
-        public IEnumerable<Autor> GetAll()
+        public Author GetById(int id)
         {
-            return _autorRepo.GetAll();
+            return _authorRepository.GetById(id);
         }
 
-        public Autor GetById(int id)
+        public void AddAuthor(AddAuthorRequest authorRequest)
         {
-            return _autorRepo.GetByld(id);
+            var author = _mapper.Map<Author>(authorRequest);
+
+            author.Id = _authorRepository.GetAll()
+                .OrderByDescending(x => x.Id).First().Id + 1;
+
+            _authorRepository.AddAuthor(author);
         }
 
-        public void DeleteAutor(int id)
+        public void DeleteAuthor(int id)
         {
-            _autorRepo.DeleteAutor(id);
-        }
-
-        public void RemoveAutor(int id)
-        {
-            _autorRepo.DeleteAutor(id);
-            
-        }
-
-        public void RemoveAutor(Autor autor)
-        {
-            throw new NotImplementedException();
+            _authorRepository.DeleteAuthor(id);
         }
     }
 }
