@@ -1,0 +1,126 @@
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.exe
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.deps.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.runtimeconfig.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\DnsClient.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Snappier.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.BL.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.DL.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.BL.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.DL.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.AssemblyInfo.cs
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.BookStoreB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStoreB.props
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreB.props
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStoreB.props
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\scopedcss\bundle\BookStoreB.styles.css
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.csproj.CopyComplete
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\refint\BookStoreB.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.genruntimeconfig.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\obj\Debug\net6.0\ref\BookStoreB.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.exe
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.deps.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.runtimeconfig.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStoreB.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\DnsClient.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Snappier.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.BL.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.DL.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.BL.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.DL.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.AssemblyInfo.cs
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.BookStoreB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStoreB.props
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreB.props
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStoreB.props
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\scopedcss\bundle\BookStoreB.styles.css
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.csproj.CopyComplete
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\refint\BookStoreB.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\BookStoreB.genruntimeconfig.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\obj\Debug\net6.0\ref\BookStoreB.dll

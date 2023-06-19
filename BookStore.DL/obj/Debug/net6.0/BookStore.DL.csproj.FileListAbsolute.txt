@@ -1,0 +1,30 @@
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.DL.deps.json
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.DL.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.DL.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.AssemblyInfo.cs
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.CopyComplete
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\refint\BookStore.DL.dll
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.pdb
+C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStore.DL\obj\Debug\net6.0\ref\BookStore.DL.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.DL.deps.json
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.DL.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.DL.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.AssemblyInfo.cs
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.CopyComplete
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\refint\BookStore.DL.dll
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\BookStore.DL.pdb
+C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStore.DL\obj\Debug\net6.0\ref\BookStore.DL.dll

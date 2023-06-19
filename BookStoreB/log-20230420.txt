@@ -1,0 +1,74 @@
+2023-04-20 17:25:58.912 +03:00 [INF] Now listening on: https://localhost:7111
+2023-04-20 17:25:58.974 +03:00 [INF] Now listening on: http://localhost:5111
+2023-04-20 17:25:58.988 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-20 17:25:58.997 +03:00 [INF] Hosting environment: Development
+2023-04-20 17:25:58.999 +03:00 [INF] Content root path: C:\Users\PC\Documents\Нова папка (2)\BookStoreB-main\BookStoreB-main\BookStoreB\BookStoreB\
+2023-04-20 17:26:00.007 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger - -
+2023-04-20 17:26:00.249 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger - - - 301 0 - 245.9601ms
+2023-04-20 17:26:00.249 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/index.html - -
+2023-04-20 17:26:00.799 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/index.html - - - 200 - text/html;charset=utf-8 549.9437ms
+2023-04-20 17:26:00.820 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/swagger-ui-standalone-preset.js - -
+2023-04-20 17:26:00.820 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/swagger-ui-bundle.js - -
+2023-04-20 17:26:00.820 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/swagger-ui.css - -
+2023-04-20 17:26:00.829 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/_framework/aspnetcore-browser-refresh.js - -
+2023-04-20 17:26:00.835 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/_vs/browserLink - -
+2023-04-20 17:26:00.838 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/_framework/aspnetcore-browser-refresh.js - - - 200 11956 application/javascript;+charset=utf-8 9.2477ms
+2023-04-20 17:26:00.858 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-04-20 17:26:00.858 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-04-20 17:26:00.866 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 46.0142ms
+2023-04-20 17:26:00.866 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/swagger-ui.css - - - 200 143632 text/css 45.6368ms
+2023-04-20 17:26:00.900 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-04-20 17:26:00.900 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 80.3655ms
+2023-04-20 17:26:00.919 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 84.2824ms
+2023-04-20 17:26:01.052 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/v1/swagger.json - -
+2023-04-20 17:26:01.078 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/favicon-32x32.png - -
+2023-04-20 17:26:01.078 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-04-20 17:26:01.079 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/favicon-32x32.png - - - 200 628 image/png 1.1463ms
+2023-04-20 17:26:01.230 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 177.2198ms
+2023-04-20 17:38:49.738 +03:00 [INF] Now listening on: https://localhost:7111
+2023-04-20 17:38:49.784 +03:00 [INF] Now listening on: http://localhost:5111
+2023-04-20 17:38:49.794 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-20 17:38:49.796 +03:00 [INF] Hosting environment: Development
+2023-04-20 17:38:49.799 +03:00 [INF] Content root path: C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\
+2023-04-20 17:38:50.888 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/index.html - -
+2023-04-20 17:38:51.693 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/index.html - - - 200 - text/html;charset=utf-8 812.3344ms
+2023-04-20 17:38:51.738 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/_vs/browserLink - -
+2023-04-20 17:38:51.738 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/_framework/aspnetcore-browser-refresh.js - -
+2023-04-20 17:38:51.746 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/_framework/aspnetcore-browser-refresh.js - - - 200 11956 application/javascript;+charset=utf-8 8.1328ms
+2023-04-20 17:38:51.799 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.6646ms
+2023-04-20 17:38:52.036 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/v1/swagger.json - -
+2023-04-20 17:38:52.302 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 266.0661ms
+2023-04-20 17:38:58.195 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/Author/GetAll - -
+2023-04-20 17:38:58.204 +03:00 [INF] Executing endpoint 'BookStoreB.Controllers.AuthorController.GetAll (BookStoreB)'
+2023-04-20 17:38:58.237 +03:00 [INF] Route matched with {action = "GetAll", controller = "Author"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller BookStoreB.Controllers.AuthorController (BookStoreB).
+2023-04-20 17:39:00.997 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[BookStore.Models.Data.Author, BookStore.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-20 17:39:01.012 +03:00 [INF] Executed action BookStoreB.Controllers.AuthorController.GetAll (BookStoreB) in 2769.0188ms
+2023-04-20 17:39:01.017 +03:00 [INF] Executed endpoint 'BookStoreB.Controllers.AuthorController.GetAll (BookStoreB)'
+2023-04-20 17:39:01.018 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/Author/GetAll - - - 200 - application/json;+charset=utf-8 2822.3198ms
+2023-04-20 17:39:24.496 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/Author/GetById?id=a87a98bc-7d9e-4113-9832-dd8db1a829ad - -
+2023-04-20 17:39:24.500 +03:00 [INF] Executing endpoint 'BookStoreB.Controllers.AuthorController.GetById (BookStoreB)'
+2023-04-20 17:39:24.515 +03:00 [INF] Route matched with {action = "GetById", controller = "Author"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetById(System.Guid) on controller BookStoreB.Controllers.AuthorController (BookStoreB).
+2023-04-20 17:39:24.707 +03:00 [INF] Executing OkObjectResult, writing value of type 'BookStore.Models.Data.Author'.
+2023-04-20 17:39:24.708 +03:00 [INF] Executed action BookStoreB.Controllers.AuthorController.GetById (BookStoreB) in 192.1684ms
+2023-04-20 17:39:24.708 +03:00 [INF] Executed endpoint 'BookStoreB.Controllers.AuthorController.GetById (BookStoreB)'
+2023-04-20 17:39:24.708 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/Author/GetById?id=a87a98bc-7d9e-4113-9832-dd8db1a829ad - - - 200 - application/json;+charset=utf-8 211.9806ms
+2023-04-20 18:14:51.452 +03:00 [INF] Now listening on: https://localhost:7111
+2023-04-20 18:14:51.501 +03:00 [INF] Now listening on: http://localhost:5111
+2023-04-20 18:14:51.509 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-20 18:14:51.512 +03:00 [INF] Hosting environment: Development
+2023-04-20 18:14:51.513 +03:00 [INF] Content root path: C:\Users\PC\Documents\gidhub\BookStore\BookStoreB\BookStoreB\
+2023-04-20 18:14:52.380 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/index.html - -
+2023-04-20 18:14:53.153 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/index.html - - - 200 - text/html;charset=utf-8 776.9720ms
+2023-04-20 18:14:53.179 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/_framework/aspnetcore-browser-refresh.js - -
+2023-04-20 18:14:53.183 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/_vs/browserLink - -
+2023-04-20 18:14:53.187 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/_framework/aspnetcore-browser-refresh.js - - - 200 11956 application/javascript;+charset=utf-8 8.0334ms
+2023-04-20 18:14:53.209 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.7751ms
+2023-04-20 18:14:53.284 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/swagger/v1/swagger.json - -
+2023-04-20 18:14:53.604 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 320.5043ms
+2023-04-20 18:15:12.086 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7111/Author/GetAll - -
+2023-04-20 18:15:12.098 +03:00 [INF] Executing endpoint 'BookStoreB.Controllers.AuthorController.GetAll (BookStoreB)'
+2023-04-20 18:15:12.129 +03:00 [INF] Route matched with {action = "GetAll", controller = "Author"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller BookStoreB.Controllers.AuthorController (BookStoreB).
+2023-04-20 18:15:14.690 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[BookStore.Models.Data.Author, BookStore.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-20 18:15:14.707 +03:00 [INF] Executed action BookStoreB.Controllers.AuthorController.GetAll (BookStoreB) in 2570.4809ms
+2023-04-20 18:15:14.711 +03:00 [INF] Executed endpoint 'BookStoreB.Controllers.AuthorController.GetAll (BookStoreB)'
+2023-04-20 18:15:14.712 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7111/Author/GetAll - - - 200 - application/json;+charset=utf-8 2625.9755ms
